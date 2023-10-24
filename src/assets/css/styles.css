@@ -1,0 +1,21 @@
+body{
+
+}
+article{
+    padding-inline: 5%;
+    margin-top: 50px;
+}
+
+.basicButton{
+    font-family: 'Lora';
+    padding: 10px;
+    background-color: #090;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.basicButton:hover{
+    background-color: #390;
+}
+
+
